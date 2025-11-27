@@ -228,7 +228,7 @@ export default function Sidebar({ isOpen, closeSidebar }) {
 
       {/* DESKTOP SIDEBAR */}
       <div
-        className="hidden lg:flex w-64 text-white flex-col border-r border-white/10"
+        className="hidden lg:flex w-64 text-white flex-col border-r border-gray-300"
         style={{ backgroundColor: sidebarColor }}
       >
         <div className="p-6 border-b border-white/10">
